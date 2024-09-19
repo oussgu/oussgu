@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussgu&label=Profile%20views&color=0e75b6&style=flat" alt="oussgu" /> </p>
 
-- 🔭 I’m currently working on [e-Bankig](https://github.com/oussgu/e-Banking/tree/master)
+- 🔭 I’m currently working on [e-Bankig Automation Demo Project ](https://github.com/oussgu/e-Banking/tree/master)
 
 - 🌱 I’m currently learning **Selenium Java**
 
