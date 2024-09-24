@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **oussama.guebli@hotmail.fr**
 
-- 📄 Know about my experiences [Download My CV ](https://rose-bili-91.tiiny.site/) 
+- 📄 Know about my experiences [Download My CV ](https://drive.google.com/file/d/10aMGL_hblMfG7W2X6dmsNU7Ws3O2B7ys/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
