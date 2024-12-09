@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Selenium Java**
 
-- 💬 Ask me about **- Java, Selenium,TestNG- Manual and Automation Testing best practices**
+- 💬 Ask me about **- Java, Selenium,TestNG,Cucumber- Manual and Automation Testing best practices**
 
 - 📫 How to reach me **oussama.guebli@hotmail.fr**
 
