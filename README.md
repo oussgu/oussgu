@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [e-Bankig Automation Demo Project ](https://github.com/oussgu/e-Banking/tree/master)
 
-- 🌱 I’m currently learning **Selenium Java**
-
 - 💬 Ask me about **- Java, Selenium,TestNG,Cucumber- Manual and Automation Testing best practices***
 
 - 📫 How to reach me **oussama.guebli@hotmail.fr**
