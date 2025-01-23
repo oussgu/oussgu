@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **oussama.guebli@hotmail.fr**
 
-- 📄 Know about my experiences [Download My CV ](https://drive.google.com/file/d/1BJ5hPpU-n_WzJoxzOwi6DmnIp3lpW5R7/view?usp=sharing)
-- [Download French Version](https://drive.google.com/file/d/141ikRaZEzqrC40vgYpnKRoPrF7OEoZ1p/view?usp=sharing)
+- 📄 Know about my experiences [Download My CV ]()
+- [Download French Version]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
