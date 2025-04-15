@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussgu&label=Profile%20views&color=0e75b6&style=flat" alt="oussgu" /> </p>
 
-- 🔭 I’m currently working on [e-Bankig Automation Demo Project ](https://github.com/oussgu/e-Banking/tree/master)
-
 - 💬 Ask me about **- Java, Selenium,TestNG,Cucumber- Manual and Automation Testing best practices***
 
 - 📫 How to reach me **oussama.guebli@hotmail.fr**
